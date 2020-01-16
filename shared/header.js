@@ -22,15 +22,16 @@ const styles = StyleSheet.create({
     height: '100%',
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'center'
+    justifyContent: 'center',
   },
   headerText: {
     fontWeight: 'bold',
     fontSize: 20,
     color: '#333',
-    letterSpacing: 1
+    letterSpacing: 1,
+    left: 32
   }, 
   Icon: {
-
+    left: 8,
   }
 })
